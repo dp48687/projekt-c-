@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kaladont</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_loop">GameLoopActivity</string>
+    <string name="title_activity_search_games">SearchGames</string>
+    <string name="title_activity_make_agame">MakeAGame</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_scores">Scores</string>
+</resources>
